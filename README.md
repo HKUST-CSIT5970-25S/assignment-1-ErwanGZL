@@ -5,9 +5,9 @@
 
 ---
 
-### Name: 
-### Student Id: 
-### Email: 
+### Name: Gonzales Erwan Theo
+### Student Id: 21134672
+### Email: etgonzales@connect.ust.hk
 
 ---
 
